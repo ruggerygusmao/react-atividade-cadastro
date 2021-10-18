@@ -22,7 +22,7 @@ export default function Cadastro(){
                 </div>
 
                 <div className="item2">
-                    <img src={logo} alt="logo.png"></img>
+                    <img className="App-logo" src={logo} alt="logo.png"></img>
                     <h1>App React</h1>
                 </div>      
             </div>
